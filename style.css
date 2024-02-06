@@ -7,9 +7,19 @@
 .hero{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(45deg, #85cacc, #4c72fa);
+    background: linear-gradient(45deg, #93d7da, #2c5cea);
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    color: #ffffff;
 }
+.hero h1{
+    font-size: 45px;
+    font-weight: 500;
+    margin-top: -50px;
+    margin-top: 50px;
+} 
+.hero h1 span{
+    color: #fffb29;
+}   
