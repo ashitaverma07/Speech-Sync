@@ -18,7 +18,7 @@
     font-size: 45px;
     font-weight: 500;
     margin-top: -50px;
-    margin-top: 50px;
+    margin-bottom: 50px;
 } 
 .hero h1 span{
     color: #ff2963;
@@ -77,4 +77,5 @@ select{
     background-size: 15px;
     background-position-x: calc(100%-20px);
     background-position-y: 20px;
+    margin-left: 20px;
 }
